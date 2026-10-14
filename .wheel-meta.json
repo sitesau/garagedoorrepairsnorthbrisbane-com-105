@@ -1,0 +1,19 @@
+{
+  "wheel_id": 379,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsnorthbrisbane-com-105",
+  "project": "garage-door-repairs-north-brisbane-comparison-2ae17a198011bd24a",
+  "parent_t1_ref": "garagedoorrepairsnorthbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsnorthbrisbane.com.au",
+  "primary_kw": "garage door repairs north brisbane comparison",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsnorthbrisbane-com-105/",
+  "writeback_nonce": "cff28250825a0e50",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-north-brisbane-9fe3c08bc06e6516b39d7fdfe/",
+      "anchor": "garage door repairs north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
